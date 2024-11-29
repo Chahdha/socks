@@ -1,0 +1,13 @@
+[{
+"id": 1,
+"color": "green",
+"image": "require('@/assets/socks_green.jpg')",
+"quantity": 10 
+},
+{ 
+"id":10,
+"color": "blue",
+"image": "require('@/assets/socks_blue.jpg')", 
+"quantity": 0 
+},
+    ]
